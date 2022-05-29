@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/StepForm/static/css/main.9808ff23.css",
+    "main.js": "/StepForm/static/js/main.b659a96c.js",
+    "static/js/787.a92c1aaf.chunk.js": "/StepForm/static/js/787.a92c1aaf.chunk.js",
+    "index.html": "/StepForm/index.html",
+    "main.9808ff23.css.map": "/StepForm/static/css/main.9808ff23.css.map",
+    "main.b659a96c.js.map": "/StepForm/static/js/main.b659a96c.js.map",
+    "787.a92c1aaf.chunk.js.map": "/StepForm/static/js/787.a92c1aaf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9808ff23.css",
+    "static/js/main.b659a96c.js"
+  ]
+}
